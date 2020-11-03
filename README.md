@@ -1,5 +1,5 @@
 # Clone a webapge
-## [Linkdin](https://ninjaaung.github.io/ninjapedia/)
+## [Linkdin](https://ninjaaung.github.io/Linkdln/)
 > Short Simple Blue Design
 #### Wireframe
 ![wireframe](./img/Wireframe.png)
